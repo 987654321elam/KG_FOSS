@@ -1,9 +1,10 @@
 body{
-    background-image: url("285674.jpg");
-    width: 80vw;
+    background-image: url("./tree.jpg");
+    width: 100vw;
     height: 100vh;
+    background-repeat: no-repeat;
 }
 
 div.a {
-    text-align: center;
+    text-align: left;
 }
